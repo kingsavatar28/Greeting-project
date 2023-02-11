@@ -1,5 +1,5 @@
 # Greeting project
-this is a simple react app consisits of hooks and simple react forms. it is a type of dynamic form which will show a heading  which  you will give in the input.it also has css in it.
+This is a  React app consisits of hooks and  forms Application. user gets a greeting as soon it enter its name .it contain great looking user interface implemented by Material ui.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
