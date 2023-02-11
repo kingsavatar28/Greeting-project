@@ -1,4 +1,4 @@
-# irregular_project
+# Greeting project
 this is a simple react app consisits of hooks and simple react forms. it is a type of dynamic form which will show a heading  which  you will give in the input.it also has css in it.
 # Getting Started with Create React App
 
